@@ -3,7 +3,11 @@
 import math
 
 # Reading log lines from file
-logFile = open('asdas.mmmacro','r')
+logFile = open('Macro1.mmmacro','r')
+logFile = open('Macro2.mmmacro','r')
+logFile = open('Macro3.mmmacro','r')
+logFile = open('Macro4.mmmacro','r')
+logFile = open('Macro5.mmmacro','r')
 logLines = logFile.readlines()
 logFile.close()
 
